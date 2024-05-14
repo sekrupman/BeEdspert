@@ -6,7 +6,7 @@ const port = 3001;
 app.get('/', (req, res) => {
     fs.readFile('./product.json', 'utf8', (err, data) => {
         if (err) {
-            res.status(500).json({message: 'error'});
+            res.status(500).json({message: 'error get product'});
             return;
         }
         const products = JSON.parse(data);
