@@ -1,0 +1,533 @@
+[
+  {
+    "id": "1",
+    "title": "Full Stack Bootcamp",
+    "batch": "12",
+    "facility": [
+      "Certified Mentor",
+      "Integrated Module",
+      "Online Class",
+      "Active Community"
+    ],
+    "price": "15000000",
+    "disc": "11000000",
+    "materi": [
+      "HTML CSS",
+      "Dasar Javascript",
+      "Pengenalan Database",
+      "Pengenalan dasar Node JS",
+      "Membuat RESTful API",
+      "Deployment"
+    ],
+    "materiText": [
+      "Pengenalan dasar HTML CSS",
+      "Pengenalan dasar javascript",
+      "Mempelajari berbagai macam database",
+      "Mempelajari fitur-fitur serta kegunaan Node JS sebagai framework Backend",
+      "Mempelajari bagaimana struktur RESTful API",
+      "Mempelajari bagaimana deployment website"
+    ],
+    "mentor": [
+      "Balijan Gunawan",
+      "Suci Puspasari",
+      "Ibun Wahyudin",
+      "Samsul Hutagalung",
+      "Maimunah Palastri",
+      "Malika Kuswandari",
+      "Lantar Mangunsong",
+      "Maryanto Gunawan"
+    ],
+    "mentorJabatan": [
+      "Senior Front End Tokopedia",
+      "Senior Back End Engineer JD.ID",
+      "Dosen Teknik Informatika UGM",
+      "Fullstack Engineer AIA group",
+      "Front End Developer Bank BCA",
+      "Youtuber Edukasi Informasi Teknologi",
+      "Principal Engineer blibli.com",
+      "IT Specialist Telkom Indonesia "
+    ],
+    "mentorText": [
+      "Senior Front End dengan berbagai pengalaman",
+      "Pengalaman sebagai backend engineer di berbagai macam perusahaan ternama",
+      "Pengalaman sebagai dosen sekaligus praktisi dalam dunia web developer",
+      "Berpengalaman bekerja sebagai fullstack engineer di perusahaan luar negeri",
+      "Berpengalaman sebagai front end developer di sebuah bank ternama",
+      "Memiliki misi untuk berbagi ilmu mengenai dunia Teknologi kepada seluruh masyarakat",
+      "Berpengalaman memimpin sebuah tim IT",
+      "Memiliki pengalaman yang menyeluruh mengenai dunia IT"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Frontend Bootcamp",
+    "batch": "13",
+    "facility": [
+      "Certified Mentor",
+      "Integrated Module",
+      "Online Class",
+      "Active Community"
+    ],
+    "price": "9000000",
+    "disc": "6000000",
+    "materi": [
+      "Dasar-dasar HTML CSS",
+      "Menggunakan Bootstrap",
+      "Javascript Dasar",
+      "Penggunaan JQuery",
+      "Variable dan Operator pada Javascript",
+      "Mengirim data melalui form"
+    ],
+    "materiText": [
+      "Mempelajari dasar-dasar HTML CSS",
+      "Mempelajari penggunaan Bootstrap",
+      "Mempelajari dasar javascript",
+      "Mempelajari penggunaan JQuery",
+      "Mempelajari variable dan operator pada javascript",
+      "Mempelajari bagaimana mengirim data melalui form"
+    ],
+    "mentor": [
+      "Cinthia Suryatmi",
+      "Rahmi Laksita",
+      "Raina Mardhiyah",
+      "Darimin Kusumo",
+      "Tina Prastuti",
+      "Yuni Sudiati",
+      "Eka Widodo",
+      "Lidya Pratiwi"
+    ],
+    "mentorJabatan": [
+      "Senior Front End Kitabisa",
+      "Senior Front End Bukalapak",
+      "Senior Front End Bank Jago",
+      "Front End Bank Muamalat",
+      "Dosen Fakultas TeknikInformatika UI",
+      "Full Stack Developer PT KAI",
+      "Full Stack Developer Freelance",
+      "Principal Front End"
+    ],
+    "mentorText": [
+      "Berpengalaman sebagai Front End Engineer",
+      "Berpengalaman sebagai Front End Developer",
+      "Berpengalaman sebagai Front End Developer di sebuah bank swasta",
+      "Berpengalaman sebagai Front End Developer di sebuah bank swasta",
+      "Berpengalaman sebagai pengajar disebuah kampus ternama",
+      "Berpengalaman menjadi developer BUMN",
+      "Berpengalaman dalam dunia web developer dengan client mancanegara",
+      "Berpengalaman memimpin tim front end"
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Backend Bootcamp",
+    "batch": "13",
+    "facility": [
+      "Certified Mentor",
+      "Integrated Module",
+      "Online Class",
+      "Active Community"
+    ],
+    "price": "9000000",
+    "disc": "6500000",
+    "materi": [
+      "Introduction to NodeJS",
+      "Basic NodeJS",
+      "BuildIn Module",
+      "Unit Testing",
+      "Database",
+      "Deployment"
+    ],
+    "materiText": [
+      "Mempelajari dasar-dasar NodeJS",
+      "Mempelajari basic NodeJS",
+      "Mempelajari BuildIn Module",
+      "Mempelajari Unit Testing",
+      "Mempelajari Database",
+      "Mempelajari Deployment"
+    ],
+    "mentor": [
+      "Rizal Akbar",
+      "Dian Permana",
+      "Agus Pratama",
+      "Sari Utami",
+      "Joko Saputra",
+      "Tina Prastuti",
+      "Yuni Sudiati",
+      "Eka Widodo"
+    ],
+    "mentorJabatan": [
+      "Backend Engineer di Bukalapak",
+      "Tech Lead di Tokopedia",
+      "Dosen di UGM",
+      "DevOps Engineer di Gojek",
+      "Backend Developer di Blibli",
+      "Senior Developer di ITB",
+      "Software Engineer di PT KAI",
+      "Web Developer di Tokopedia"
+    ],
+    "mentorText": [
+      "Berpengalaman dalam pengembangan backend di Bukalapak",
+      "Tech Lead di Tokopedia",
+      "Dosen dengan pengalaman praktis di UGM",
+      "DevOps Engineer di Gojek",
+      "Backend Developer di Blibli",
+      "Senior Developer di ITB",
+      "Software Engineer di PT KAI",
+      "Web Developer di Tokopedia"
+    ]
+  },
+  {
+    "id": "4",
+    "title": "QA Bootcamp",
+    "batch": "12",
+    "facility": [
+      "Certified Mentor",
+      "Integrated Module",
+      "Online Class",
+      "Active Community"
+    ],
+    "price": "8000000",
+    "disc": "5000000",
+    "materi": [
+      "Dasar Quality Assurance",
+      "Automated Testing",
+      "Manual Testing",
+      "Test Driven Development",
+      "Penggunaan Selenium",
+      "Penggunaan JUnit"
+    ],
+    "materiText": [
+      "Pengenalan dasar quality assurance",
+      "Teknik-teknik automated testing",
+      "Prosedur manual testing",
+      "Konsep Test Driven Development",
+      "Pengenalan Selenium",
+      "Penggunaan JUnit untuk pengujian"
+    ],
+    "mentor": [
+      "Sari Utami",
+      "Agus Pratama",
+      "Dian Permana",
+      "Rina Dewi",
+      "Andi Surya",
+      "Joko Saputra",
+      "Tina Prastuti",
+      "Yuni Sudiati"
+    ],
+    "mentorJabatan": [
+      "QA Engineer di Gojek",
+      "Software Tester di Traveloka",
+      "QA Lead di Tokopedia",
+      "Senior QA di JD.ID",
+      "QA Specialist di Bukalapak",
+      "QA Manager di Blibli",
+      "Test Engineer di ITB",
+      "Quality Assurance di PT KAI"
+    ],
+    "mentorText": [
+      "Berpengalaman dalam quality assurance di Gojek",
+      "Software Tester berpengalaman di Traveloka",
+      "QA Lead di Tokopedia",
+      "Senior QA di JD.ID",
+      "QA Specialist di Bukalapak",
+      "QA Manager di Blibli",
+      "Test Engineer di ITB",
+      "Quality Assurance di PT KAI"
+    ]
+  },
+  {
+    "id": "5",
+    "title": "PM Bootcamp",
+    "batch": "11",
+    "facility": [
+      "Certified Mentor",
+      "Integrated Module",
+      "Online Class",
+      "Active Community"
+    ],
+    "price": "9000000",
+    "disc": "7000000",
+    "materi": [
+      "Dasar Manajemen Proyek",
+      "Metodologi Agile",
+      "Kerangka Kerja Scrum",
+      "Manajemen Risiko",
+      "Penyusunan Anggaran",
+      "Pengelolaan Tim"
+    ],
+    "materiText": [
+      "Pengenalan dasar manajemen proyek",
+      "Memahami metodologi Agile",
+      "Penggunaan kerangka kerja Scrum",
+      "Manajemen risiko proyek",
+      "Penyusunan anggaran proyek",
+      "Teknik pengelolaan tim"
+    ],
+    "mentor": [
+      "Dian Permana",
+      "Andi Surya",
+      "Rina Dewi",
+      "Samsul Hutagalung",
+      "Maimunah Palastri",
+      "Malika Kuswandari",
+      "Lantar Mangunsong",
+      "Maryanto Gunawan"
+    ],
+    "mentorJabatan": [
+      "Project Manager di Traveloka",
+      "Agile Coach di Tokopedia",
+      "Scrum Master di JD.ID",
+      "Manajer Proyek di AIA Group",
+      "Pengelola Proyek di Bank BCA",
+      "Konsultan Proyek di Bukalapak",
+      "Pengarah Proyek di Blibli",
+      "Pakar Manajemen Proyek di Telkom Indonesia"
+    ],
+    "mentorText": [
+      "Berpengalaman mengelola proyek di Traveloka",
+      "Ahli metodologi Agile di Tokopedia",
+      "Berpengalaman sebagai Scrum Master di JD.ID",
+      "Manajer proyek berpengalaman di AIA Group",
+      "Mengelola berbagai proyek di Bank BCA",
+      "Konsultan proyek dengan pengalaman di Bukalapak",
+      "Pengarah proyek senior di Blibli",
+      "Pakar manajemen proyek di Telkom Indonesia"
+    ]
+  },
+  {
+    "id": "6",
+    "title": "UI Bootcamp",
+    "batch": "17",
+    "facility": [
+      "Certified Mttor",
+      "Integrated Module",
+      "Online Class",
+      "Active Community"
+    ],
+    "price": "7000000",
+    "disc": "4000000",
+    "materi": [
+      "Desain Antarmuka Pengguna",
+      "Prototyping",
+      "Penggunaan Tools Desain",
+      "Prinsip Desain",
+      "Desain Responsif",
+      "Pengujian UI"
+    ],
+    "materiText": [
+      "Dasar-dasar desain antarmuka pengguna",
+      "Pembuatan prototipe",
+      "Penggunaan berbagai tools desain",
+      "Prinsip-prinsip dasar desain",
+      "Teknik desain responsif",
+      "Pengujian antarmuka pengguna"
+    ],
+    "mentor": [
+      "Sari Utami",
+      "Dian Permana",
+      "Agus Pratama",
+      "Rina Dewi",
+      "Andi Surya",
+      "Joko Saputra",
+      "Tina Prastuti",
+      "Yuni Sudiati"
+    ],
+    "mentorJabatan": [
+      "Senior UI Designer di Gojek",
+      "Visual Designer di Traveloka",
+      "Lead UI/UX di Tokopedia",
+      "UI Specialist di JD.ID",
+      "Product Designer di Bukalapak",
+      "Creative Director di Blibli",
+      "Design Strategist di ITB",
+      "UX Researcher di PT KAI"
+    ],
+    "mentorText": [
+      "Berpengalaman dalam desain UI di Gojek",
+      "Ahli visual desain di Traveloka",
+      "Lead UI/UX dengan pengalaman di Tokopedia",
+      "Spesialis UI di JD.ID",
+      "Desainer produk di Bukalapak",
+      "Direktur kreatif di Blibli",
+      "Strategi desain di ITB",
+      "Peneliti UX di PT KAI"
+    ]
+  },
+  {
+    "id": "7",
+    "title": "UX Bootcamp",
+    "batch": "17",
+    "facility": [
+      "Certified Mttor",
+      "Integrated Module",
+      "Online Class",
+      "Active Community"
+    ],
+    "price": "7500000",
+    "disc": "5000000",
+    "materi": [
+      "Penelitian Pengguna",
+      "Wireframing",
+      "Pengujian Pengguna",
+      "Prototyping",
+      "Prinsip UX",
+      "Analisis Data"
+    ],
+    "materiText": [
+      "Dasar-dasar penelitian pengguna",
+      "Pembuatan wireframe",
+      "Pengujian pengalaman pengguna",
+      "Pembuatan prototipe",
+      "Prinsip-prinsip dasar UX",
+      "Analisis data pengguna"
+    ],
+    "mentor": [
+      "Rizal Akbar",
+      "Sari Utami",
+      "Dian Permana",
+      "Agus Pratama",
+      "Rina Dewi",
+      "Andi Surya",
+      "Joko Saputra",
+      "Tina Prastuti"
+    ],
+    "mentorJabatan": [
+      "UX Research Lead di Bukalapak",
+      "Senior UX Designer di Gojek",
+      "Experience Strategist di Traveloka",
+      "UX Lead di Tokopedia",
+      "Pengamat UX di JD.ID",
+      "Penasihat UX di Bukalapak",
+      "UX Engineer di Blibli",
+      "Konsultan UX di ITB"
+    ],
+    "mentorText": [
+      "Pemimpin penelitian UX di Bukalapak",
+      "Desainer UX senior di Gojek",
+      "Strategi pengalaman di Traveloka",
+      "Pemimpin UX di Tokopedia",
+      "Pengamat UX di JD.ID",
+      "Penasihat UX dengan pengalaman di Bukalapak",
+      "Engineer UX di Blibli",
+      "Konsultan UX di ITB"
+    ]
+  },
+  {
+    "id": "8",
+    "title": "DevOps Bootcamp",
+    "batch": "9",
+    "facility": [
+      "Certified Mttor",
+      "Integrated Module",
+      "Online Class",
+      "Active Community"
+    ],
+    "price": "9000000",
+    "disc": "6500000",
+    "materi": [
+      "Dasar DevOps",
+      "CI/CD",
+      "Penggunaan Docker",
+      "Monitoring dan Logging",
+      "Automasi Infrastruktur",
+      "Keamanan DevOps"
+    ],
+    "materiText": [
+      "Pengenalan dasar DevOps",
+      "Implementasi CI/CD",
+      "Penggunaan Docker dalam DevOps",
+      "Teknik monitoring dan logging",
+      "Automasi infrastruktur dengan Ansible",
+      "Prinsip-prinsip keamanan dalam DevOps"
+    ],
+    "mentor": [
+      "Rina Dewi",
+      "Andi Surya",
+      "Budi Santoso",
+      "Agus Pratama",
+      "Sari Utami",
+      "Joko Saputra",
+      "Tina Prastuti",
+      "Yuni Sudiati"
+    ],
+    "mentorJabatan": [
+      "DevOps Architect di JD.ID",
+      "Platform Engineer di Tokopedia",
+      "Cloud Engineer di UGM",
+      "Infrastructure Lead di Traveloka",
+      "Senior DevOps di Gojek",
+      "Automation Specialist di Blibli",
+      "Site Reliability Engineer di ITB",
+      "Security Engineer di PT KAI"
+    ],
+    "mentorText": [
+      "Arsitek DevOps di JD.ID",
+      "Engineer platform di Tokopedia",
+      "Cloud Engineer di UGM",
+      "Pemimpin infrastruktur di Traveloka",
+      "DevOps senior di Gojek",
+      "Spesialis automasi di Blibli",
+      "Site Reliability Engineer di ITB",
+      "Engineer keamanan di PT KAI"
+    ]
+  },
+  {
+    "id": "9",
+    "title": "Data Engineer Bootcamp",
+    "batch": "15",
+    "facility": [
+      "Certified Mttor",
+      "Integrated Module",
+      "Online Class",
+      "Active Community"
+    ],
+    "price": "12000000",
+    "disc": "8000000",
+    "materi": [
+      "Dasar Pemrograman Python",
+      "Pemrosesan Data dengan Spark",
+      "Pengenalan Database SQL dan NoSQL",
+      "Data Warehousing",
+      "ETL (Extract, Transform, Load)",
+      "Data Pipeline"
+    ],
+    "materiText": [
+      "Mempelajari dasar pemrograman Python",
+      "Pemrosesan data menggunakan Apache Spark",
+      "Pengenalan database SQL dan NoSQL",
+      "Teknik data warehousing",
+      "Mengenal proses ETL (Extract, Transform, Load)",
+      "Pembuatan data pipeline yang efektif"
+    ],
+    "mentor": [
+      "Dewi Anjani",
+      "Farhan Sutrisno",
+      "Eko Wiryawan",
+      "Lestari Adi",
+      "Nugroho Prasetyo",
+      "Rizky Nurcahyo",
+      "Agus Susanto",
+      "Sinta Permata"
+    ],
+    "mentorJabatan": [
+      "Data Engineer di Bukalapak",
+      "Big Data Specialist di Gojek",
+      "Senior Data Architect di Tokopedia",
+      "Machine Learning Engineer di Traveloka",
+      "Database Administrator di Blibli",
+      "Cloud Data Engineer di Telkom Indonesia",
+      "Lead Data Scientist di Bank BCA",
+      "ETL Developer di JD.ID"
+    ],
+    "mentorText": [
+      "Berpengalaman sebagai Data Engineer di Bukalapak",
+      "Spesialis Big Data di Gojek",
+      "Arsitek Data Senior di Tokopedia",
+      "Engineer Machine Learning di Traveloka",
+      "Administrator Database di Blibli",
+      "Engineer Data Cloud di Telkom Indonesia",
+      "Pemimpin Data Scientist di Bank BCA",
+      "Pengembang ETL di JD.ID"
+    ]
+  }
+]
