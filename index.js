@@ -18,7 +18,7 @@ app.get('/api/products', (req, res) => {
     });
 });
 
-app.get('/api/product/:id', (req, res) => {
+app.get('/api/products/:id', (req, res) => {
     const filePath = path.join(__dirname, 'public', 'product.json');
     const productId = req.params.id;
 
