@@ -1,13 +1,17 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
+const cors = require('cors');
 const app = express();
 const port = 3001;
-const cors = require('cors'); 
 
 app.use(cors({
-    origin: 'https://edspert-nu.vercel.app'
-  }));
+    origin: 'https://edspert-nu.vercel.app',
+    methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+    preflightContinue: false,
+    optionsSuccessStatus: 204
+}));
+
 app.use(express.json());
 
 app.get('/api/products', (req, res) => {
