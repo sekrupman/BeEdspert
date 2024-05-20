@@ -6,7 +6,7 @@ const app = express();
 const port = 3001;
 
 app.use(cors({
-    origin: 'https://be-edspert.vercel.app/api/products',
+    origin: 'https://be-edspert.vercel.app',
     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
     preflightContinue: false,
     optionsSuccessStatus: 204
