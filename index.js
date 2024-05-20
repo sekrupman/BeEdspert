@@ -5,9 +5,7 @@ const cors = require('cors');
 const app = express();
 const port = 3001;
 
-app.use(cors({
-    origin: 'https://be-edspert.vercel.app'
-}));
+app.use(cors());
 
 app.use(express.json());
 
