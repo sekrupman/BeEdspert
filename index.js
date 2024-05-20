@@ -4,6 +4,9 @@ const path = require('path');
 const app = express();
 const port = 3001;
 
+app.use(cors({
+    origin: 'https://edspert-nu.vercel.app'
+  }));
 app.use(express.json());
 
 app.get('/api/products', (req, res) => {
